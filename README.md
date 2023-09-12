@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-Actualmente soy estudiante de ingenieria de sistemas <br>soy de Colombia <br>Amante al futbol <br>Me gusta viajar, desarrollar <br>Amante a los videojuegos 
+Actualmente soy estudiante de ingenieria de sistemas <br>soy de Colombia <br>Amante al futbol <br>Me gusta viajar, desarrollar <br>Amante a los videojuegos <br>correo: anthonyviveros18@gmail.com anjoviveros123@umarina.edu.co
 
 
 ## 🌐 Socials:
